@@ -2,16 +2,16 @@
 
 LED violette GROVE [33160](https://www.pierron.fr/modules-led-grove.html)
 
-<div style="text-align: justify">Ce module "LED GROVE" est conçu pour les débutants il permet de surveiller les contrôles des ports numériques. Il peut être monté facilement à la surface de votre boîte ou de votre bureau et utilisé comme lampe pilote pour la puissance ou le signal. Sa luminosité peut être ajustée par le potentiomètre présent sur le module.</div>
+<div style="text-align: justify">Ce module "LED GROVE" est conçu pour les débutants. Il permet de surveiller les contrôles des ports numériques. Il peut être monté facilement à la surface de votre boîte ou de votre bureau et utilisé comme lampe pilote pour la puissance ou le signal. Sa luminosité peut être ajustée par le potentiomètre présent sur le module.</div>
 
 Caractéristiques techniques :
-- Alimentation : 3.3-5V
+- Alimentation : 3.3 - 5 V
 - Consommation : 20 mA
 
 ![33160](/img/L-33160.jpg)
 
 # Usage :
-Pour l’utilisation de ce module référez-vous aux indications présentes sur le circuit imprimé GROVE.
+Pour l’utilisation de ce module, référez-vous aux indications présentes sur le circuit imprimé GROVE.
 
 # Exemple :
 ### Arduino / C++
